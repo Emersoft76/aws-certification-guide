@@ -72,7 +72,7 @@ aws-certification-guide/
 │   ├── questions-single-answer.md
 │   ├── questions-multiple-answers.md
 │   └── traps-and-tips.md
-
+```
 ---
 
 ## 🧠 Why This Guide? | Por que Este Guia?

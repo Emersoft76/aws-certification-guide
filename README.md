@@ -17,9 +17,6 @@
   </p>
 </p>
 
-> 🇬🇧 A bilingual knowledge hub for mastering AWS Cloud certifications from beginner to intermediate level.  
-> 🇧🇷 Um centro de conhecimento bilíngue para dominar certificações AWS Cloud do nível iniciante ao intermediário.
-
 ---
 
 ## 🧭 Certifications Covered | Certificações Incluídas

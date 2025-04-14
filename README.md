@@ -12,8 +12,8 @@
   </p>
 
   <p align="center">
-    <strong>🇬🇧 Bilingual (EN–PT) • Hands-On Mindset • Practical + Theory</strong><br/>
-    <strong>🇧🇷 Bilíngue (EN–PT) • Mente prática • Conceito + Aplicação</strong>
+    <strong>EN & PT • Hands-On Mindset • Practical + Theory</strong><br/>
+    <strong>Bilíngue • Mente prática • Conceito + Aplicação</strong>
   </p>
 </p>
 

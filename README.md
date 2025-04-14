@@ -1,4 +1,21 @@
-# 🎓 AWS Certification Guide | Guia de Certificações AWS
+<p align="center">
+  <h1 align="center">🚀 AWS Certification Guide</h1>
+  <p align="center">Two certification paths, one powerful cloud journey.</p>
+
+  <p align="center">
+    <a href="./practitioner/README.md">
+      <img src="https://img.shields.io/badge/Cloud%20Practitioner-Beginner-orange?style=for-the-badge&logo=amazonaws" alt="Cloud Practitioner Badge">
+    </a>
+    <a href="./solutions-architect-associate/README.md">
+      <img src="https://img.shields.io/badge/Solutions%20Architect-Associate-blue?style=for-the-badge&logo=amazonaws" alt="Solutions Architect Badge">
+    </a>
+  </p>
+
+  <p align="center">
+    <strong>🇬🇧 Bilingual (EN–PT) • Hands-On Mindset • Practical + Theory</strong><br/>
+    <strong>🇧🇷 Bilíngue (EN–PT) • Mente prática • Conceito + Aplicação</strong>
+  </p>
+</p>
 
 > 🇬🇧 A bilingual knowledge hub for mastering AWS Cloud certifications from beginner to intermediate level.  
 > 🇧🇷 Um centro de conhecimento bilíngue para dominar certificações AWS Cloud do nível iniciante ao intermediário.

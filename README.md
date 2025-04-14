@@ -49,30 +49,32 @@
 
 ---
 
-## 📂 Estrutura de Diretórios
+## 📂 Estrutura de Diretórios (com links)
 
-```bash
-aws-certification-guide/
-├── practitioner/
-│   ├── README.md
-│   ├── domain1-cloud-concepts.md
-│   ├── domain2-security-compliance.md
-│   ├── domain3-technology-services.md
-│   ├── domain4-billing-pricing-support.md
-│   ├── questions-single-answer.md
-│   ├── questions-multiple-answers.md
-│   └── traps-and-tips.md
-│
-├── solutions-architect-associate/
-│   ├── README.md
-│   ├── domain1-secure-architectures.md
-│   ├── domain2-resilient-architectures.md
-│   ├── domain3-high-performing-architectures.md
-│   ├── domain4-cost-optimized-architectures.md
-│   ├── questions-single-answer.md
-│   ├── questions-multiple-answers.md
-│   └── traps-and-tips.md
-```
+### `/practitioner/`
+
+- [README.md](./practitioner/README.md)
+- [domain1-cloud-concepts.md](./practitioner/domain1-cloud-concepts.md)
+- [domain2-security-compliance.md](./practitioner/domain2-security-compliance.md)
+- [domain3-technology-services.md](./practitioner/domain3-technology-services.md)
+- [domain4-billing-pricing-support.md](./practitioner/domain4-billing-pricing-support.md)
+- [questions-single-answer.md](./practitioner/questions-single-answer.md)
+- [questions-multiple-answers.md](./practitioner/questions-multiple-answers.md)
+- [traps-and-tips.md](./practitioner/traps-and-tips.md)
+
+---
+
+### `/solutions-architect-associate/`
+
+- [README.md](./solutions-architect-associate/README.md)
+- [domain1-secure-architectures.md](./solutions-architect-associate/domain1-secure-architectures.md)
+- [domain2-resilient-architectures.md](./solutions-architect-associate/domain2-resilient-architectures.md)
+- [domain3-high-performing-architectures.md](./solutions-architect-associate/domain3-high-performing-architectures.md)
+- [domain4-cost-optimized-architectures.md](./solutions-architect-associate/domain4-cost-optimized-architectures.md)
+- [questions-single-answer.md](./solutions-architect-associate/questions-single-answer.md)
+- [questions-multiple-answers.md](./solutions-architect-associate/questions-multiple-answers.md)
+- [traps-and-tips.md](./solutions-architect-associate/traps-and-tips.md)
+
 ---
 
 ## 🧠 Why This Guide? | Por que Este Guia?

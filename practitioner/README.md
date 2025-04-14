@@ -5,13 +5,30 @@
 
 ---
 
-## 🏷️ Badges & Technologies  
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)  
-[![IAM](https://img.shields.io/badge/IAM-Security-darkgreen?style=flat-square&logo=amazon-aws)](https://docs.aws.amazon.com/IAM/latest/UserGuide/)  
-[![S3](https://img.shields.io/badge/S3-Storage-brown?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/s3/)  
-[![EC2](https://img.shields.io/badge/EC2-Compute-lightgrey?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/ec2/)  
-[![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-purple?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/cloudwatch/)  
-[![Cost Explorer](https://img.shields.io/badge/Cost_Explorer-Budget-blue?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/aws-cost-management/)
+## 🏷️ Badges & Technologies
+
+<div align="center">
+
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws" alt="AWS Badge" />
+  </a>
+  <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/">
+    <img src="https://img.shields.io/badge/IAM-Security-darkgreen?style=flat-square&logo=amazon-aws" alt="IAM Badge" />
+  </a>
+  <a href="https://aws.amazon.com/s3/">
+    <img src="https://img.shields.io/badge/S3-Storage-brown?style=flat-square&logo=amazon-aws" alt="S3 Badge" />
+  </a>
+  <a href="https://aws.amazon.com/ec2/">
+    <img src="https://img.shields.io/badge/EC2-Compute-lightgrey?style=flat-square&logo=amazon-aws" alt="EC2 Badge" />
+  </a>
+  <a href="https://aws.amazon.com/cloudwatch/">
+    <img src="https://img.shields.io/badge/CloudWatch-Monitoring-purple?style=flat-square&logo=amazon-aws" alt="CloudWatch Badge" />
+  </a>
+  <a href="https://aws.amazon.com/aws-cost-management/">
+    <img src="https://img.shields.io/badge/Cost_Explorer-Budget-blue?style=flat-square&logo=amazon-aws" alt="Cost Explorer Badge" />
+  </a>
+
+</div>
 
 ---
 

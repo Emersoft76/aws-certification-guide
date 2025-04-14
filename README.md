@@ -16,10 +16,22 @@
 
 ## 🏷️ Badges & Tecnologias Envolvidas
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)  
-[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-blueviolet?style=flat-square&logo=terraform)](https://www.terraform.io/)  
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-Orchestration-lightgrey?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/cloudformation/)  
-[![IAM](https://img.shields.io/badge/IAM-Access_Management-darkgreen?style=flat-square&logo=amazon-aws)](https://docs.aws.amazon.com/IAM/latest/UserGuide/)
+<div align="center">
+
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws" alt="AWS Badge" />
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-Infrastructure_as_Code-blueviolet?style=flat-square&logo=terraform" alt="Terraform Badge" />
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/">
+    <img src="https://img.shields.io/badge/CloudFormation-Orchestration-lightgrey?style=flat-square&logo=amazon-aws" alt="CloudFormation Badge" />
+  </a>
+  <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/">
+    <img src="https://img.shields.io/badge/IAM-Access_Management-darkgreen?style=flat-square&logo=amazon-aws" alt="IAM Badge" />
+  </a>
+
+</div>
 
 ---
 

@@ -54,6 +54,7 @@
 ```bash
 aws-certification-guide/
 ├── practitioner/
+│   ├── README.md
 │   ├── domain1-cloud-concepts.md
 │   ├── domain2-security-compliance.md
 │   ├── domain3-technology-services.md
@@ -63,6 +64,7 @@ aws-certification-guide/
 │   └── traps-and-tips.md
 │
 ├── solutions-architect-associate/
+│   ├── README.md
 │   ├── domain1-secure-architectures.md
 │   ├── domain2-resilient-architectures.md
 │   ├── domain3-high-performing-architectures.md
@@ -70,7 +72,7 @@ aws-certification-guide/
 │   ├── questions-single-answer.md
 │   ├── questions-multiple-answers.md
 │   └── traps-and-tips.md
-```
+
 ---
 
 ## 🧠 Why This Guide? | Por que Este Guia?

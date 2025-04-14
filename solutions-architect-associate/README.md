@@ -5,13 +5,30 @@
 
 ---
 
-## 🏷️ Badges & Technologies  
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)  
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet?style=flat-square&logo=terraform)](https://www.terraform.io/)  
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-Templates-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/cloudformation/)  
-[![EC2](https://img.shields.io/badge/EC2-Compute-darkgreen?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/ec2/)  
-[![S3](https://img.shields.io/badge/S3-Object_Storage-brown?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/s3/)  
-[![RDS](https://img.shields.io/badge/RDS-Relational_DB-lightblue?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/rds/)
+## 🏷️ Badges & Technologies
+
+<div align="center">
+
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws" alt="AWS Badge" />
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-IaC-blueviolet?style=flat-square&logo=terraform" alt="Terraform Badge" />
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/">
+    <img src="https://img.shields.io/badge/CloudFormation-Templates-lightgrey?style=flat-square&logo=amazon-aws" alt="CloudFormation Badge" />
+  </a>
+  <a href="https://aws.amazon.com/ec2/">
+    <img src="https://img.shields.io/badge/EC2-Compute-darkgreen?style=flat-square&logo=amazon-aws" alt="EC2 Badge" />
+  </a>
+  <a href="https://aws.amazon.com/s3/">
+    <img src="https://img.shields.io/badge/S3-Object_Storage-brown?style=flat-square&logo=amazon-aws" alt="S3 Badge" />
+  </a>
+  <a href="https://aws.amazon.com/rds/">
+    <img src="https://img.shields.io/badge/RDS-Database-lightblue?style=flat-square&logo=amazon-aws" alt="RDS Badge" />
+  </a>
+
+</div>
 
 ---
 
